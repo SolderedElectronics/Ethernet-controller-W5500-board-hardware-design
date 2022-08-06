@@ -1,0 +1,6 @@
+(version 1)
+
+(rule RX_TX
+   # wider clearance between RX and TX tracks
+   (constraint clearance (min "0.8mm"))
+   (condition "A.NetClass == 'RX' && B.NetClass == 'TX'"))
