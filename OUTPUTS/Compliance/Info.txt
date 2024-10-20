@@ -1,0 +1,5 @@
+SKU: 333039
+Full product name: Ethernet controller W5500 board
+Country of origin: Croatia
+HS tariff code: 85340090
+EAN/UPC barcode: 732388657506
